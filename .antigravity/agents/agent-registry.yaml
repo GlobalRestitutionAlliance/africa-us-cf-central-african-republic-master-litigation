@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-central-african-republic-canal-and-intervention-historian
-  name: Central African Republic Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-central-african-republic-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_cf_001
+    name: Central African Republic Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_002
+    name: Central African Republic Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_003
+    name: Central African Republic Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_004
+    name: Central African Republic Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_005
+    name: Central African Republic Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_006
+    name: Central African Republic Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_007
+    name: Central African Republic Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_008
+    name: Central African Republic Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_009
+    name: Central African Republic Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_010
+    name: Central African Republic Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_011
+    name: Central African Republic Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_012
+    name: Central African Republic Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_013
+    name: Central African Republic Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_014
+    name: Central African Republic Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_015
+    name: Central African Republic Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_016
+    name: Central African Republic Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_017
+    name: Central African Republic Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_018
+    name: Central African Republic Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_019
+    name: Central African Republic Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_020
+    name: Central African Republic Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_021
+    name: Central African Republic Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_022
+    name: Central African Republic Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_023
+    name: Central African Republic Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_024
+    name: Central African Republic Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_025
+    name: Central African Republic Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_026
+    name: Central African Republic Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_027
+    name: Central African Republic Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_028
+    name: Central African Republic Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_029
+    name: Central African Republic Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_030
+    name: Central African Republic Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_031
+    name: Central African Republic Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_032
+    name: Central African Republic Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_033
+    name: Central African Republic Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_034
+    name: Central African Republic Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_035
+    name: Central African Republic Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_036
+    name: Central African Republic Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_037
+    name: Central African Republic Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_038
+    name: Central African Republic Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_039
+    name: Central African Republic Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_040
+    name: Central African Republic Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_041
+    name: Central African Republic Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_042
+    name: Central African Republic Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_043
+    name: Central African Republic Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_044
+    name: Central African Republic Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_045
+    name: Central African Republic Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_046
+    name: Central African Republic Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_047
+    name: Central African Republic Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_048
+    name: Central African Republic Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_049
+    name: Central African Republic Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_050
+    name: Central African Republic Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_051
+    name: Central African Republic Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_052
+    name: Central African Republic Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_053
+    name: Central African Republic Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_054
+    name: Central African Republic Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_055
+    name: Central African Republic Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_056
+    name: Central African Republic Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_057
+    name: Central African Republic Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_058
+    name: Central African Republic Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_059
+    name: Central African Republic Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_060
+    name: Central African Republic Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_061
+    name: Central African Republic Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_062
+    name: Central African Republic Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_063
+    name: Central African Republic Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_064
+    name: Central African Republic Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_065
+    name: Central African Republic Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_066
+    name: Central African Republic Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_067
+    name: Central African Republic Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_068
+    name: Central African Republic Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_069
+    name: Central African Republic Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_070
+    name: Central African Republic Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_071
+    name: Central African Republic Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_072
+    name: Central African Republic Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_073
+    name: Central African Republic Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_074
+    name: Central African Republic Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_075
+    name: Central African Republic Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_076
+    name: Central African Republic Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_077
+    name: Central African Republic Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_078
+    name: Central African Republic Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_079
+    name: Central African Republic Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_080
+    name: Central African Republic Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_081
+    name: Central African Republic Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_082
+    name: Central African Republic Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_083
+    name: Central African Republic Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_084
+    name: Central African Republic Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_085
+    name: Central African Republic Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_086
+    name: Central African Republic Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_087
+    name: Central African Republic Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_088
+    name: Central African Republic Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_089
+    name: Central African Republic Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_090
+    name: Central African Republic Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_091
+    name: Central African Republic Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_092
+    name: Central African Republic Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_093
+    name: Central African Republic Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_094
+    name: Central African Republic Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_095
+    name: Central African Republic Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_096
+    name: Central African Republic Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_097
+    name: Central African Republic Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_098
+    name: Central African Republic Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_099
+    name: Central African Republic Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_100
+    name: Central African Republic Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_101
+    name: Central African Republic Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_102
+    name: Central African Republic Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_103
+    name: Central African Republic Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_104
+    name: Central African Republic Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_105
+    name: Central African Republic Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_106
+    name: Central African Republic Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_107
+    name: Central African Republic Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_108
+    name: Central African Republic Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_109
+    name: Central African Republic Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_110
+    name: Central African Republic Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_111
+    name: Central African Republic Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_112
+    name: Central African Republic Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_113
+    name: Central African Republic Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_114
+    name: Central African Republic Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_115
+    name: Central African Republic Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_116
+    name: Central African Republic Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_117
+    name: Central African Republic Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_118
+    name: Central African Republic Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_119
+    name: Central African Republic Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_120
+    name: Central African Republic Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_121
+    name: Central African Republic Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_122
+    name: Central African Republic Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_123
+    name: Central African Republic Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_124
+    name: Central African Republic Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_125
+    name: Central African Republic Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_126
+    name: Central African Republic Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_127
+    name: Central African Republic Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_128
+    name: Central African Republic Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_129
+    name: Central African Republic Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_130
+    name: Central African Republic Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_131
+    name: Central African Republic Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_132
+    name: Central African Republic Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_133
+    name: Central African Republic Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_134
+    name: Central African Republic Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_135
+    name: Central African Republic Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_136
+    name: Central African Republic Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_137
+    name: Central African Republic Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_138
+    name: Central African Republic Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_139
+    name: Central African Republic Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_140
+    name: Central African Republic Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_141
+    name: Central African Republic Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_142
+    name: Central African Republic Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_143
+    name: Central African Republic Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_144
+    name: Central African Republic Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_145
+    name: Central African Republic Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_146
+    name: Central African Republic Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_147
+    name: Central African Republic Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_148
+    name: Central African Republic Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_149
+    name: Central African Republic Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_150
+    name: Central African Republic Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_151
+    name: Central African Republic Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_152
+    name: Central African Republic Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_153
+    name: Central African Republic Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_154
+    name: Central African Republic Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_155
+    name: Central African Republic Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_156
+    name: Central African Republic Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_157
+    name: Central African Republic Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_158
+    name: Central African Republic Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_159
+    name: Central African Republic Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_160
+    name: Central African Republic Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_161
+    name: Central African Republic Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_162
+    name: Central African Republic Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_163
+    name: Central African Republic Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_164
+    name: Central African Republic Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_165
+    name: Central African Republic Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_166
+    name: Central African Republic Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_167
+    name: Central African Republic Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_168
+    name: Central African Republic Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_169
+    name: Central African Republic Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cf_170
+    name: Central African Republic Agent 170
+    status: ACTIVE_SCAFFOLD

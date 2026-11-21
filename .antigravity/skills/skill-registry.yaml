@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: central-african-republican-restitution-roadmap-and-qsf-trust-execution
-  name: Central African Republican Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/central-african-republican-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_cf_001
+    name: Central African Republic Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_002
+    name: Central African Republic Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_003
+    name: Central African Republic Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_004
+    name: Central African Republic Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_005
+    name: Central African Republic Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_006
+    name: Central African Republic Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_007
+    name: Central African Republic Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_008
+    name: Central African Republic Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_009
+    name: Central African Republic Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_010
+    name: Central African Republic Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_011
+    name: Central African Republic Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_012
+    name: Central African Republic Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_013
+    name: Central African Republic Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_014
+    name: Central African Republic Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_015
+    name: Central African Republic Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_016
+    name: Central African Republic Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_017
+    name: Central African Republic Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_018
+    name: Central African Republic Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_019
+    name: Central African Republic Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_020
+    name: Central African Republic Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_021
+    name: Central African Republic Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_022
+    name: Central African Republic Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_023
+    name: Central African Republic Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_024
+    name: Central African Republic Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_025
+    name: Central African Republic Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_026
+    name: Central African Republic Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_027
+    name: Central African Republic Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_028
+    name: Central African Republic Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_029
+    name: Central African Republic Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_030
+    name: Central African Republic Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_031
+    name: Central African Republic Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_032
+    name: Central African Republic Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_033
+    name: Central African Republic Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_034
+    name: Central African Republic Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_035
+    name: Central African Republic Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_036
+    name: Central African Republic Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_037
+    name: Central African Republic Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_038
+    name: Central African Republic Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_039
+    name: Central African Republic Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_040
+    name: Central African Republic Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_041
+    name: Central African Republic Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_042
+    name: Central African Republic Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_043
+    name: Central African Republic Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_044
+    name: Central African Republic Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_045
+    name: Central African Republic Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_046
+    name: Central African Republic Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_047
+    name: Central African Republic Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_048
+    name: Central African Republic Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_049
+    name: Central African Republic Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_050
+    name: Central African Republic Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_051
+    name: Central African Republic Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_052
+    name: Central African Republic Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_053
+    name: Central African Republic Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_054
+    name: Central African Republic Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_055
+    name: Central African Republic Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_056
+    name: Central African Republic Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_057
+    name: Central African Republic Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_058
+    name: Central African Republic Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_059
+    name: Central African Republic Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_060
+    name: Central African Republic Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_061
+    name: Central African Republic Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_062
+    name: Central African Republic Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_063
+    name: Central African Republic Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_064
+    name: Central African Republic Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_065
+    name: Central African Republic Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_066
+    name: Central African Republic Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_067
+    name: Central African Republic Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_068
+    name: Central African Republic Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_069
+    name: Central African Republic Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_070
+    name: Central African Republic Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_071
+    name: Central African Republic Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_072
+    name: Central African Republic Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_073
+    name: Central African Republic Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_074
+    name: Central African Republic Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_075
+    name: Central African Republic Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_076
+    name: Central African Republic Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_077
+    name: Central African Republic Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_078
+    name: Central African Republic Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_079
+    name: Central African Republic Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_080
+    name: Central African Republic Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_081
+    name: Central African Republic Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_082
+    name: Central African Republic Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_083
+    name: Central African Republic Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_084
+    name: Central African Republic Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_085
+    name: Central African Republic Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_086
+    name: Central African Republic Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_087
+    name: Central African Republic Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_088
+    name: Central African Republic Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_089
+    name: Central African Republic Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_090
+    name: Central African Republic Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_091
+    name: Central African Republic Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_092
+    name: Central African Republic Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_093
+    name: Central African Republic Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_094
+    name: Central African Republic Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_095
+    name: Central African Republic Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_096
+    name: Central African Republic Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_097
+    name: Central African Republic Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_098
+    name: Central African Republic Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_099
+    name: Central African Republic Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_100
+    name: Central African Republic Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_101
+    name: Central African Republic Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_102
+    name: Central African Republic Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_103
+    name: Central African Republic Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_104
+    name: Central African Republic Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_105
+    name: Central African Republic Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_106
+    name: Central African Republic Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_107
+    name: Central African Republic Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_108
+    name: Central African Republic Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_109
+    name: Central African Republic Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_110
+    name: Central African Republic Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_111
+    name: Central African Republic Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_112
+    name: Central African Republic Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_113
+    name: Central African Republic Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_114
+    name: Central African Republic Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_115
+    name: Central African Republic Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_116
+    name: Central African Republic Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_117
+    name: Central African Republic Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_118
+    name: Central African Republic Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_119
+    name: Central African Republic Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_120
+    name: Central African Republic Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_121
+    name: Central African Republic Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_122
+    name: Central African Republic Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_123
+    name: Central African Republic Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_124
+    name: Central African Republic Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_125
+    name: Central African Republic Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_126
+    name: Central African Republic Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_127
+    name: Central African Republic Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_128
+    name: Central African Republic Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_129
+    name: Central African Republic Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_130
+    name: Central African Republic Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_131
+    name: Central African Republic Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_132
+    name: Central African Republic Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_133
+    name: Central African Republic Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_134
+    name: Central African Republic Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_135
+    name: Central African Republic Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_136
+    name: Central African Republic Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_137
+    name: Central African Republic Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_138
+    name: Central African Republic Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_139
+    name: Central African Republic Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_140
+    name: Central African Republic Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_141
+    name: Central African Republic Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_142
+    name: Central African Republic Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_143
+    name: Central African Republic Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_144
+    name: Central African Republic Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_145
+    name: Central African Republic Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_146
+    name: Central African Republic Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_147
+    name: Central African Republic Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_148
+    name: Central African Republic Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_149
+    name: Central African Republic Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_150
+    name: Central African Republic Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_151
+    name: Central African Republic Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_152
+    name: Central African Republic Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_153
+    name: Central African Republic Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_154
+    name: Central African Republic Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_155
+    name: Central African Republic Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_156
+    name: Central African Republic Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_157
+    name: Central African Republic Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_158
+    name: Central African Republic Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_159
+    name: Central African Republic Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_160
+    name: Central African Republic Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_161
+    name: Central African Republic Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_162
+    name: Central African Republic Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_163
+    name: Central African Republic Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_164
+    name: Central African Republic Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_165
+    name: Central African Republic Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_166
+    name: Central African Republic Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_167
+    name: Central African Republic Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_168
+    name: Central African Republic Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_169
+    name: Central African Republic Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_170
+    name: Central African Republic Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_171
+    name: Central African Republic Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_172
+    name: Central African Republic Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_173
+    name: Central African Republic Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_174
+    name: Central African Republic Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_175
+    name: Central African Republic Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_176
+    name: Central African Republic Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_177
+    name: Central African Republic Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_178
+    name: Central African Republic Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_179
+    name: Central African Republic Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_180
+    name: Central African Republic Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_181
+    name: Central African Republic Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_182
+    name: Central African Republic Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_183
+    name: Central African Republic Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_184
+    name: Central African Republic Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_185
+    name: Central African Republic Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_186
+    name: Central African Republic Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_187
+    name: Central African Republic Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_188
+    name: Central African Republic Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_189
+    name: Central African Republic Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_190
+    name: Central African Republic Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_191
+    name: Central African Republic Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_192
+    name: Central African Republic Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_193
+    name: Central African Republic Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_194
+    name: Central African Republic Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_195
+    name: Central African Republic Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_196
+    name: Central African Republic Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_197
+    name: Central African Republic Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_198
+    name: Central African Republic Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_199
+    name: Central African Republic Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_200
+    name: Central African Republic Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_201
+    name: Central African Republic Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_202
+    name: Central African Republic Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_203
+    name: Central African Republic Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_204
+    name: Central African Republic Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_205
+    name: Central African Republic Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_206
+    name: Central African Republic Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_207
+    name: Central African Republic Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_208
+    name: Central African Republic Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_209
+    name: Central African Republic Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_210
+    name: Central African Republic Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_211
+    name: Central African Republic Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_212
+    name: Central African Republic Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_213
+    name: Central African Republic Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_214
+    name: Central African Republic Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_215
+    name: Central African Republic Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_216
+    name: Central African Republic Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_217
+    name: Central African Republic Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_218
+    name: Central African Republic Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_219
+    name: Central African Republic Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_220
+    name: Central African Republic Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_221
+    name: Central African Republic Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_222
+    name: Central African Republic Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_223
+    name: Central African Republic Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_224
+    name: Central African Republic Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_225
+    name: Central African Republic Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_226
+    name: Central African Republic Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_227
+    name: Central African Republic Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_228
+    name: Central African Republic Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_229
+    name: Central African Republic Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_230
+    name: Central African Republic Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_231
+    name: Central African Republic Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_232
+    name: Central African Republic Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_233
+    name: Central African Republic Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_234
+    name: Central African Republic Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_235
+    name: Central African Republic Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_236
+    name: Central African Republic Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_237
+    name: Central African Republic Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_238
+    name: Central African Republic Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_239
+    name: Central African Republic Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_240
+    name: Central African Republic Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_241
+    name: Central African Republic Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_242
+    name: Central African Republic Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_243
+    name: Central African Republic Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_244
+    name: Central African Republic Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_245
+    name: Central African Republic Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_246
+    name: Central African Republic Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_247
+    name: Central African Republic Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_248
+    name: Central African Republic Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_249
+    name: Central African Republic Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_250
+    name: Central African Republic Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_251
+    name: Central African Republic Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cf_252
+    name: Central African Republic Skill 252
+    status: ACTIVE_SCAFFOLD
