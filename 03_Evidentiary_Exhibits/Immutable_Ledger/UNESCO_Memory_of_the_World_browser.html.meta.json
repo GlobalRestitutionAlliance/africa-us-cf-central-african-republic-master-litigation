@@ -1,0 +1,15 @@
+{
+  "url": "https://www.unesco.org/en/memory-world",
+  "final_url": "https://www.unesco.org/en/memory-world",
+  "title": "UNESCO Memory of the World",
+  "fetched_at": "2026-11-23T01:37:57.024055Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60027,
+  "sha256": "98494f1600822f2c6d4b87165a5595b30f5faf6eca1609f8f6cc2aefa6bb27a0",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}
